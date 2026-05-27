@@ -1,13 +1,8 @@
 # P1 - Mad Libs Generator
-
 A word game that asks the user for ramdom words and inserts them into a pre-version story template. The result is printed to the terminal.
 
 ## How to run
-...
-
 python3 mad_libs.py
-
-...
 
 ### What I learned
 - Variables store user input
