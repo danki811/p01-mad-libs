@@ -4,7 +4,8 @@ A word game that asks the user for ramdom words and inserts them into a pre-vers
 
 ## How to run
 ...
-python3 p01-mad-libs.py
+
+python3 p01_mad_libs.py
 ...
 
 ### What I learned
